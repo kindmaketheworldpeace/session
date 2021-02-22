@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="85c4486d-a0ae-418c-9a48-fed21e82ecfa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="offcial_backend" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mzbOjAhj98eBOBWW6EqOpm2JbX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../totel_management_svn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\offcial_backend\views" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="85c4486d-a0ae-418c-9a48-fed21e82ecfa" name="Default Changelist" comment="" />
+      <created>1610499336461</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610499336461</updated>
+      <workItem from="1610499337947" duration="746000" />
+      <workItem from="1610584706593" duration="106298000" />
+      <workItem from="1611041879693" duration="361000" />
+      <workItem from="1611042242022" duration="405000" />
+      <workItem from="1611042656520" duration="554000" />
+      <workItem from="1611043211932" duration="121000" />
+      <workItem from="1611043333449" duration="570000" />
+      <workItem from="1611044062767" duration="563000" />
+      <workItem from="1611044636660" duration="145000" />
+      <workItem from="1611044784056" duration="336000" />
+      <workItem from="1611045124295" duration="8815000" />
+      <workItem from="1611103286683" duration="12674000" />
+      <workItem from="1611189846345" duration="34736000" />
+      <workItem from="1611708919714" duration="4034000" />
+      <workItem from="1613628263719" duration="10216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1613698599246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1613698599246" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611046604102" />
+    <state x="1000" y="395" key="com.intellij.ide.util.TipDialog" timestamp="1611189850052">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1000" y="395" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611189850052" />
+    <state x="2920" y="395" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1611044064283" />
+    <state x="702" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1610934161192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="113" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610934161192" />
+    <state x="985" y="351" width="647" height="524" key="find.popup" timestamp="1611214992251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="985" y="351" width="647" height="524" key="find.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1611214992251" />
+    <state x="1341" y="351" width="672" height="678" key="search.everywhere.popup" timestamp="1610954758223">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1341" y="351" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1610954758223" />
+  </component>
+</project>
